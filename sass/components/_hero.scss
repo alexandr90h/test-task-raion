@@ -6,12 +6,21 @@
   padding-bottom: 156px;
   padding-right: 80px;
   padding-left: 80px;
-  video {
+  .video-box {
+    position: relative;
+    padding: 237px 353px;
     width: 880px;
     height: 522px;
     background: linear-gradient(134.63deg, #1fabe3 1.15%, #36358c 99.34%);
     border-radius: 10px;
   }
+}
+// .logo-icon-hero {
+// }
+.play-icon-hero {
+  position: absolute;
+  top: 221px;
+  left: 400px;
 }
 .hero-section-text-content-box {
   h1 {
