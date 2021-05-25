@@ -62,6 +62,14 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 16px;
+  -webkit-transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-sign-in:hover {
+  background: rgba(72, 142, 170, 0.15);
+  border: 1px solid #979797;
+  cursor: pointer;
 }
 
 .btn-sign-up {
@@ -74,6 +82,13 @@ header {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
+  -webkit-transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.btn-sign-up:hover {
+  background: #665f5f;
+  cursor: pointer;
 }
 
 .hero-section {
@@ -131,6 +146,13 @@ header {
   width: 196px;
   height: 59px;
   color: #ffffff;
+  -webkit-transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.hero-section-text-content-box button:hover {
+  background: #e8878b;
+  cursor: pointer;
 }
 
 .arrow-icon {
@@ -517,7 +539,7 @@ footer {
   position: absolute;
   width: 334.12px;
   height: 334.12px;
-  left: -325px;
+  left: -375px;
   top: 2434px;
   background: linear-gradient(227.21deg, #93291e -68.17%, #ed213a 80.38%), linear-gradient(135deg, #f7af04 1.15%, #d05b0b 100.07%);
   -webkit-box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
@@ -525,5 +547,33 @@ footer {
   border-radius: 12px;
   -webkit-transform: rotate(29.82deg);
           transform: rotate(29.82deg);
+}
+
+.square-05 {
+  position: absolute;
+  width: 363.23px;
+  height: 363.23px;
+  right: -249px;
+  top: 2656px;
+  background: linear-gradient(135deg, #bc547c 1.15%, #8b216a 100.07%);
+  -webkit-box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+          box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  -webkit-transform: rotate(27.05deg);
+          transform: rotate(27.05deg);
+}
+
+.square-06 {
+  position: absolute;
+  width: 333.65px;
+  height: 333.65px;
+  right: -202px;
+  top: 3123px;
+  background: linear-gradient(135deg, #bfcb20 1.15%, #09a64d 100.07%);
+  -webkit-box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+          box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  -webkit-transform: rotate(27.05deg);
+          transform: rotate(27.05deg);
 }
 /*# sourceMappingURL=main.css.map */

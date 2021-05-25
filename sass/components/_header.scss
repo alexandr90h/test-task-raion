@@ -30,6 +30,12 @@ header {
   font-weight: 500;
   font-size: 16px;
   line-height: 16px;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  &:hover {
+    background: rgba(72, 142, 170, 0.15);
+    border: 1px solid #979797;
+    cursor: pointer;
+  }
 }
 .btn-sign-up {
   background: #1c1c1c;
@@ -41,4 +47,9 @@ header {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  &:hover {
+    background: #665f5f;
+    cursor: pointer;
+  }
 }
