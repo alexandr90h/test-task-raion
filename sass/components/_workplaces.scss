@@ -1,0 +1,64 @@
+.workplaces-section {
+  padding-top: 200px;
+  padding-left: 80px;
+  padding-right: 80px;
+  h2 {
+    width: 841px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 120%;
+  }
+  h5 {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+  }
+  ul {
+    margin-top: 40px;
+    width: 1519px;
+    li:not(:first-child) {
+      margin-top: 24px;
+    }
+    p {
+      padding-top: 4px;
+      padding-bottom: 10px;
+      font-family: Inter;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 19px;
+    }
+  }
+  .itm-01 {
+    background-image: url("../../images/line-01.svg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+  }
+  .itm-02 {
+    background-image: url("../../images/line-02.svg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+  }
+  .itm-03 {
+    background-image: url("../../images/line-03.svg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+  }
+  .itm-04 {
+    background-image: url("../../images/line-04.svg");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+  }
+}
+.workplaces-text {
+  padding-top: 56px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+}

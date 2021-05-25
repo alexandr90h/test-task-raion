@@ -1,0 +1,61 @@
+footer {
+  background-color: #262626;
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.logo-link {
+  display: block;
+  margin: auto;
+  //   padding-top: 48px;
+  //   padding-bottom: 48px;
+  svg {
+    width: 132px;
+  }
+}
+.list-nav-footer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+  padding-bottom: 56px;
+  & li a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.25px;
+    color: #ffffff;
+  }
+  border-bottom: 1px solid #97979748;
+}
+.signature-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 39px;
+  padding-bottom: 39px;
+  span {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.25px;
+    color: #ffffff;
+    mix-blend-mode: normal;
+    opacity: 0.6;
+  }
+}
+.social-icon-box {
+  ul {
+    display: flex;
+
+    gap: 20px;
+  }
+  svg {
+    width: 18px;
+    height: 18px;
+  }
+}

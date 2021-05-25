@@ -17,12 +17,23 @@
     flex-wrap: wrap;
     gap: 112px;
   }
+  li {
+    position: relative;
+    text-align: center;
+  }
   svg {
     display: block;
     width: 200px;
     height: 200px;
+    fill: #979797;
+    &:hover {
+      fill: unset;
+    }
   }
   span {
+    position: absolute;
+    bottom: -13px;
+    left: 0;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;

@@ -1,0 +1,46 @@
+.square-01 {
+  position: absolute;
+  width: 350px;
+  height: 350px;
+  background: linear-gradient(135deg, #109f52 1.15%, #373489 100.07%);
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  transform: rotate(145.62deg);
+  top: 820px;
+  left: -282px;
+}
+.square-02 {
+  position: absolute;
+  width: 245.32px;
+  height: 245.32px;
+  right: -147px;
+  top: 1838px;
+  background: linear-gradient(135deg, #5659c5 1.15%, #420181 100.07%);
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  transform: rotate(146.26deg);
+}
+.square-03 {
+  position: absolute;
+  width: 363.75px;
+  height: 363.75px;
+  left: -278px;
+  top: 2049px;
+  background: linear-gradient(134.02deg, #1fabe3 1.13%, #36358c 77.67%);
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  transform: rotate(29.82deg);
+}
+.square-04 {
+  position: absolute;
+  width: 334.12px;
+  height: 334.12px;
+  left: -325px;
+  top: 2434px;
+
+  background: linear-gradient(227.21deg, #93291e -68.17%, #ed213a 80.38%),
+    linear-gradient(135deg, #f7af04 1.15%, #d05b0b 100.07%);
+  box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+  border-radius: 12px;
+  transform: rotate(29.82deg);
+}
