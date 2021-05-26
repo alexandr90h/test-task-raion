@@ -262,43 +262,43 @@ header {
 }
 
 .partners-list-item-01 {
-  background-image: url("../../images/partners-icon-01.png");
+  background-image: url("../images/partners-icon-01.png");
 }
 
 .partners-list-item-01:hover {
-  background-image: url("../../images/partners-color-icon-01.png");
+  background-image: url("../images/partners-color-icon-01.png");
 }
 
 .partners-list-item-02 {
-  background-image: url("../../images/partners-icon-02.png");
+  background-image: url("../images/partners-icon-02.png");
 }
 
 .partners-list-item-02:hover {
-  background-image: url("../../images/partners-color-icon-02.png");
+  background-image: url("../images/partners-color-icon-02.png");
 }
 
 .partners-list-item-03 {
-  background-image: url("../../images/partners-icon-03.png");
+  background-image: url("../images/partners-icon-03.png");
 }
 
 .partners-list-item-03:hover {
-  background-image: url("../../images/partners-color-icon-03.png");
+  background-image: url("../images/partners-color-icon-03.png");
 }
 
 .partners-list-item-04 {
-  background-image: url("../../images/partners-icon-04.png");
+  background-image: url("../images/partners-icon-04.png");
 }
 
 .partners-list-item-04:hover {
-  background-image: url("../../images/partners-color-icon-04.png");
+  background-image: url("../images/partners-color-icon-04.png");
 }
 
 .partners-list-item-05 {
-  background-image: url("../../images/partners-icon-05.png");
+  background-image: url("../images/partners-icon-05.png");
 }
 
 .partners-list-item-05:hover {
-  background-image: url("../../images/partners-color-icon-05.png");
+  background-image: url("../images/partners-color-icon-05.png");
 }
 
 .partners-list-item-06 {
@@ -306,55 +306,55 @@ header {
 }
 
 .partners-list-item-06:hover {
-  background-image: url("../../images/partners-color-icon-06.png");
+  background-image: url("../images/partners-color-icon-06.png");
 }
 
 .partners-list-item-07 {
-  background-image: url("../../images/partners-icon-07.png");
+  background-image: url("../images/partners-icon-07.png");
 }
 
 .partners-list-item-07:hover {
-  background-image: url("../../images/partners-color-icon-07.png");
+  background-image: url("../images/partners-color-icon-07.png");
 }
 
 .partners-list-item-08 {
-  background-image: url("../../images/partners-icon-08.png");
+  background-image: url("../images/partners-icon-08.png");
 }
 
 .partners-list-item-08:hover {
-  background-image: url("../../images/partners-color-icon-08.png");
+  background-image: url("../images/partners-color-icon-08.png");
 }
 
 .partners-list-item-09 {
-  background-image: url("../../images/partners-icon-09.png");
+  background-image: url("../images/partners-icon-09.png");
 }
 
 .partners-list-item-09:hover {
-  background-image: url("../../images/partners-color-icon-09.png");
+  background-image: url("../images/partners-color-icon-09.png");
 }
 
 .partners-list-item-10 {
-  background-image: url("../../images/partners-icon-10.png");
+  background-image: url("../images/partners-icon-10.png");
 }
 
 .partners-list-item-10:hover {
-  background-image: url("../../images/partners-color-icon-10.png");
+  background-image: url("../images/partners-color-icon-10.png");
 }
 
 .partners-list-item-11 {
-  background-image: url("../../images/partners-icon-11.png");
+  background-image: url("../images/partners-icon-11.png");
 }
 
 .partners-list-item-11:hover {
-  background-image: url("../../images/partners-color-icon-11.png");
+  background-image: url("../images/partners-color-icon-11.png");
 }
 
 .partners-list-item-12 {
-  background-image: url("../../images/partners-icon-12.png");
+  background-image: url("../images/partners-icon-12.png");
 }
 
 .partners-list-item-12:hover {
-  background-image: url("../../images/partners-color-icon-12.png");
+  background-image: url("../images/partners-color-icon-12.png");
 }
 
 .searching-sections {
@@ -460,26 +460,26 @@ header {
 }
 
 .workplaces-section .itm-01 {
-  background-image: url("../../images/line-01.svg");
+  background-image: url("../images/line-01.svg");
   background-repeat: no-repeat;
   background-position: left bottom;
   background-size: contain;
 }
 
 .workplaces-section .itm-02 {
-  background-image: url("../../images/line-02.svg");
+  background-image: url("../images/line-02.svg");
   background-repeat: no-repeat;
   background-position: left bottom;
 }
 
 .workplaces-section .itm-03 {
-  background-image: url("../../images/line-03.svg");
+  background-image: url("../images/line-03.svg");
   background-repeat: no-repeat;
   background-position: left bottom;
 }
 
 .workplaces-section .itm-04 {
-  background-image: url("../../images/line-04.svg");
+  background-image: url("../images/line-04.svg");
   background-repeat: no-repeat;
   background-position: left bottom;
 }
@@ -589,19 +589,19 @@ header {
 }
 
 .card-itm-01 {
-  background-image: url("../../images/card-image-01.jpg");
+  background-image: url("../images/card-image-01.jpg");
   background-repeat: no-repeat;
   background-position: left top;
 }
 
 .card-itm-02 {
-  background-image: url("../../images/card-image-02.jpg");
+  background-image: url("../images/card-image-02.jpg");
   background-repeat: no-repeat;
   background-position: left top;
 }
 
 .card-itm-03 {
-  background-image: url("../../images/card-image-03.jpg");
+  background-image: url("../images/card-image-03.jpg");
   background-repeat: no-repeat;
   background-position: left top;
 }
