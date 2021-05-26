@@ -1,11 +1,17 @@
 .hero-section {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   align-items: center;
   padding-top: 145px;
   padding-bottom: 156px;
   padding-right: 80px;
   padding-left: 80px;
+  @media screen and (max-width: 1756px) {
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+  }
   .video-box {
     position: relative;
     padding: 237px 353px;
